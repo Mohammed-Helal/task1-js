@@ -1,0 +1,18 @@
+.products{
+    margin-top: 50px;
+}
+
+.card-body p i {
+    color: yellow;
+}
+
+.card-body h2{
+    font-weight: 700;
+    font-size: 24;
+    background-color: rgb(202, 196, 196);
+}
+
+.card-body h5{
+    font-size: 30;
+    font-weight: 700;
+}
